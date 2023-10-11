@@ -1,15 +1,18 @@
 import './App.css';
 import {Routes, Route} from 'react-router-dom'
 import Navbar from './components/Navbar';
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-import {faHome, faEnvelope, faCompass, faPlusSquare, faUser, faSearch} from '@fortawesome/free-solid-svg-icons'
+import Footer from './components/Footer'
 
 
 function App() {
   return (
-    <>
-      <Navbar/>      
-    </>
+    <div className='App'>
+      <Navbar/>   
+      <div className='App-content'>
+        jkj
+      </div>
+      <Footer/>
+    </div>
   );
 }
 
