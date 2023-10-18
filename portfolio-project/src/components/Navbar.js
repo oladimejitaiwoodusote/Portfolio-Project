@@ -8,7 +8,7 @@ function Navbar() {
     <div className="navbar_wrapper">
       <nav className='navbar'>
          <div className="navbar-logo_wrapper">
-            <span className='navabar-logo'>Oo.</span>
+            <span className='navabar-logo'>OEO.</span>
          </div>
          <div className="navbar_icons">
             <NavLink className="navbar_link" to="/" activeClassName="active-link">

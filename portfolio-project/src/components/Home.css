@@ -1,0 +1,27 @@
+.home {
+    padding: 50px;
+    text-align: center;
+}
+
+.hero{
+    margin-bottom: 50 px;
+    font-size: 2em;
+}
+
+.hero h1 {
+    font-size: 5 px;
+    margin-bottom: 40 px;
+}
+
+.about-me, .contact-cta {
+    margin: 50px 0;
+    font-size: 2em;
+}
+
+.about-me img {
+    max-width: 10000px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+
