@@ -11,22 +11,28 @@ function Home() {
         </section>
 
         <section className="about-me">
-            <h2>A brief introduction...</h2>
-            <p>
-                During my time as a Flow Assurance Consultant in the Oil and Gas industry, 
-                I was drawn to the world of programming. It became a powerful tool in my professional arsenal, 
-                allowing me to optimize and innovate within my field.
-            </p>
-            <p>
-                I've honed my skills particularly in Python and JavaScript, developing a proficiency that is both broad and deep. 
-                My passion lies in web development, where I apply these languages in conjunction with technologies such as Node.js, 
-                and frameworks like React.js and Flask-SQLAlchemy.
-            </p>
-            <p>
-                Here, you'll find a showcase of my technical journey and the projects that have been a testament to my growth and 
-                learning in the ever-evolving field of technology.
-            </p>
-            <img src={profImg} alt="Oladimeji Odusote"/>
+            <div className='about-me-content'>
+                <div className='text-content'>
+                    <h2>A brief introduction...</h2>
+                    <p>
+                        During my time as a Flow Assurance Consultant in the Oil and Gas industry, 
+                        I was drawn to the world of programming. It became a powerful tool in my professional arsenal, 
+                        allowing me to optimize and innovate within my field.
+                    </p>
+                    <p>
+                        I've honed my skills particularly in Python and JavaScript, developing a proficiency that is both broad and deep. 
+                        My passion lies in web development, where I apply these languages in conjunction with technologies such as Node.js, 
+                        and frameworks like React.js and Flask-SQLAlchemy.
+                    </p>
+                    <p>
+                        Here, you'll find a showcase of my technical journey and the projects that have been a testament to my growth and 
+                        learning in the ever-evolving field of technology.
+                    </p>
+                </div>
+                <div className='image-content'>
+                    <img src={profImg} alt="Oladimeji Odusote"/>
+                </div>
+            </div>
         </section>
 
         <section className="contact-cta">

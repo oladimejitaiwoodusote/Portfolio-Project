@@ -1,27 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Roboto:wght@400;700&display=swap');
+
 .home {
     padding: 50px;
-    text-align: center;
+    text-align: left;
+    background-color: white;
+    color: #333;
+    font-family: sans-serif;
 }
 
-.hero{
+.hero h1{
+    font-weight: 700;
+    color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+    color: #222; /* Almost Black */
+}
+
+.about-me h2, .contact-cta h2 {
+    font-weight: 700; /* Bold */
+    color: #000; /* Black */
+}
+
+p {
+    color: #555; /* Grey for body text */
+}
+
+/* Adjustments for links or CTA buttons can go here, example: */
+button, a {
+    color: #1d72b8; /* A shade of blue */
+    font-weight: 700; /* Bold */
+}
+
+.hero, .about-me, .contact-cta {
     margin-bottom: 50 px;
-    font-size: 2em;
+    font-size: 1.7em;
 }
 
-.hero h1 {
-    font-size: 5 px;
-    margin-bottom: 40 px;
+.about-me-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-.about-me, .contact-cta {
-    margin: 50px 0;
-    font-size: 2em;
+.text-content {
+    max-width: 60%;
 }
 
-.about-me img {
-    max-width: 10000px;
-    border-radius: 50%;
-    margin-top: 20px;
+.image-content img {
+    max-width: 300px;
+    border-radius: 60%;
 }
 
 
