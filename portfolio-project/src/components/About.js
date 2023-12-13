@@ -1,5 +1,6 @@
 import React from 'react'
 import profImg from '../Assets/guitar.jpeg'
+import profImg2 from '../Assets/futbol.jpg'
 import './About.css'
 
 
@@ -36,10 +37,15 @@ function About() {
                     </p>
                 </div>
                 <div className='About_image-content'>
-                    <img src={profImg} alt="guitar"/>
+                    <div className='About_image-wrapper'>
+                        <img src={profImg} alt="guitar"/>
+                        <img src={profImg2} alt="futbol"/>
+                    </div>
                 </div>
             </div>
-
+        </section>
+        <section>
+            <h1></h1>
         </section>
     </div>
   )
