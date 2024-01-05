@@ -2,6 +2,7 @@
     width: 100%;
     background-color: black; /* Black background */
     position: fixed;
+    z-index: 1000;
 
   }
   

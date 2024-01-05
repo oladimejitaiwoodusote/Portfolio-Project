@@ -2,6 +2,8 @@ import React from 'react'
 import profImg from '../Assets/guitar.jpeg'
 import profImg2 from '../Assets/futbol.jpg'
 import './About.css'
+import {DiPython, DiJavascript1,DiNodejs, DiReact, DiPostgresql, DiHtml5, DiCss3} from 'react-icons/di'
+import { SiSqlite, SiFlask, SiVercel, SiHeroku} from "react-icons/si";
 
 
 function About() {
@@ -44,8 +46,21 @@ function About() {
                 </div>
             </div>
         </section>
-        <section>
-            <h1></h1>
+        <section className='technical-skills'>
+            <h1>Technical Skills</h1>
+            <div className='icon-grid'>
+                <DiPython className='icon'/>
+                <DiJavascript1 className='icon'/>
+                <DiNodejs className='icon'/>
+                <DiReact className='icon'/>
+                <DiPostgresql className='icon'/>
+                <DiHtml5 className='icon'/>
+                <DiCss3 className='icon'/>
+                <SiSqlite className='icon'/>
+                <SiFlask className='icon'/>
+                <SiVercel className='icon'/>
+                <SiHeroku className='icon'/>
+            </div>
         </section>
     </div>
   )

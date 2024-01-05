@@ -4,6 +4,7 @@
     background-color: white;
     color: #333;
     font-family: sans-serif;
+    z-index: 1;
 }
 
 .hero h1{
@@ -67,4 +68,12 @@ button, a {
     flex-direction: column;
     align-items: center;
     padding-bottom: 10px;
+}
+
+.technical-skills {
+    margin-top: 50px;
+}
+
+.icon {
+    font-size: 5rem;
 }
