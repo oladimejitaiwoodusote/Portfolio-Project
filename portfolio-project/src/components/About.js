@@ -15,7 +15,7 @@ function About() {
                     <h1>My Story and Background</h1>
                     <p>
                         Hello! I'm Oladimeji Odusote, a Software Developer. I spent my formative years in
-                        Lagos, Nigeria until the age of 14 when I relocated to the United States with my family, I 
+                        Lagos, Nigeria until the age of 14 when I relocated to the United States with my family. I 
                         pursued my undergraduate degree at the University of Illinois at Urbana-Champaign, where I
                         earned a BSc. in Chemical Engineering and was introduced to the world of software
                         development. 
