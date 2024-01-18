@@ -7,7 +7,7 @@ function Home() {
     <div className='home'>
         <section className='hero'>
             <h1>Hello! I'm Oladimeji Odusote and welcome!</h1>
-            <p> Full Stack Web Developer | Tech Enthusiast </p>
+            <p> Software Engineer | Tech Enthusiast </p>
         </section>
 
         <section className="about-me">

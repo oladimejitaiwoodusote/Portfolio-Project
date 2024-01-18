@@ -1,6 +1,6 @@
 import {NavLink} from 'react-router-dom'
 import './Navbar.css'
-import {AiOutlineHome, AiOutlineUser, AiOutlineFundProjectionScreen, AiOutlineFileText} from 'react-icons/ai'
+import {AiOutlineHome, AiOutlineUser, AiOutlineFundProjectionScreen} from 'react-icons/ai'
 import {ImBlog} from 'react-icons/im'
 
 function Navbar() {
@@ -17,15 +17,12 @@ function Navbar() {
             <NavLink className="navbar_link" to="/about" activeClassName="active-link">
                 <AiOutlineUser/> About
             </NavLink>
-            <NavLink className="navbar_link" to="/resume" activeClassName="active-link">
-                <AiOutlineFileText/> Resume
-            </NavLink>
             <NavLink className="navbar_link" to="/projects" activeClassName="active-link">
                 <AiOutlineFundProjectionScreen/> Projects
             </NavLink>
-            <NavLink className="navbar_link" to="/blog" activeClassName="active-link">
+            <a className="navbar_link" href="https://medium.com/@taiwo.odusote" target="_blank" rel="noopener noreferrer">
                 <ImBlog/> Blog
-            </NavLink>
+            </a>
          </div>
       </nav>
     </div>

@@ -5,10 +5,9 @@ import {AiFillGithub, AiFillLinkedin} from 'react-icons/ai'
 
 function Footer() {
   return (
-    <div className='Footer_wrapper'>
-        <footer>
+        <footer className='Footer_wrapper'>
             <div className="Footer_copyright">
-                <p>© 2023 Oladimeji Odusote</p>
+                <p>© 2024 Oladimeji Odusote</p>
             </div>
             <div className="Footer_links">
                 <a href="https://github.com/oladimejitaiwoodusote">
@@ -19,7 +18,6 @@ function Footer() {
                 </a>
             </div>
         </footer>
-    </div>
   )
 }
 

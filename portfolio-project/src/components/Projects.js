@@ -8,7 +8,7 @@ const projects = [
   {
     id: 1,
     name: 'Instagram Clone',
-    description: 'An instagram clone application built using react.js for the front-end, Flask for the backend and PostgreSQL for storage. Implemented user authentication and authorization for account management. Also implement social media features for user interactivity.',
+    description: 'An instagram clone application built using react.js for the front-end, Flask for the backend and PostgreSQL for storage. Implemented user authentication and authorization for account management. Also implemented social media features for user interactivity.',
     githubLink: 'https://github.com/oladimejitaiwoodusote/Instagram-Mock',
     demoLink: 'https://instagram-mock-one.vercel.app/',
     image: projImg1
@@ -16,7 +16,7 @@ const projects = [
   {
     id: 2,
     name: 'Collectorsgramm',
-    description: 'A mock social media site for vinyl collectors built using react.js for the front-end, Flask for the backend and SQLite for storage. Implemented user authentication and authorization for account management. Also implement social media features for user interactivity.',
+    description: 'A mock social media site for vinyl collectors built using react.js for the front-end, Flask for the backend and SQLite for storage. Implemented user authentication and authorization for account management. Also implemented social media features for user interactivity.',
     githubLink: 'https://github.com/oladimejitaiwoodusote/Capstone-',
     demoLink: '',
     image: projImg2
