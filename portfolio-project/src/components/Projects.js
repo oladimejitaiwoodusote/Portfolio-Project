@@ -42,7 +42,7 @@ function Projects() {
               <img src={project.image} alt={project.name}/>
                 <h2>{project.name}</h2>
                 <p>{project.description}</p>
-                <div>
+                <div className='buttons'>
                   <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
                       GitHub
                   </a>
