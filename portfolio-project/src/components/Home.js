@@ -38,7 +38,7 @@ function Home() {
         <section className="contact-cta">
             <h2>Let's Connect!</h2>
             <p>
-                Curious to work together or just connect? Find me on LinkedIn, GitHub or shoot me an email which can be found on my resume.
+                Curious to work together or just connect? Find me on LinkedIn or GitHub.
                 Thanks for stopping by!
             </p>    
         </section>
