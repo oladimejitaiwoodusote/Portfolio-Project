@@ -29,8 +29,8 @@ function About() {
                     </p>
                     <p>
                         My enthusiasm led me to attend a Full-Stack development bootcamp, Flatiron School.
-                        in New York City. Since then, I've been back in Houston, TX, 
-                        working as a software developer at Renola Energy, an LNG company.
+                        in New York City. Since then, I've returned to Houston, TX, 
+                        where I have been diligently enhancing my capabilities as a software engineer.
                     </p>
                     <p>
                         Beyond the realm of work and software development, I enjoy spending my free time 
