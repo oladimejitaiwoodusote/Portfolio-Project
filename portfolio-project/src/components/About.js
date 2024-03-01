@@ -3,7 +3,7 @@ import profImg from '../Assets/guitar.jpeg'
 import profImg2 from '../Assets/futbol.jpg'
 import './About.css'
 import {DiPython, DiJavascript1,DiNodejs, DiReact, DiPostgresql, DiHtml5, DiCss3} from 'react-icons/di'
-import { SiSqlite, SiFlask, SiVercel, SiHeroku} from "react-icons/si";
+import { SiSqlite, SiFlask, SiVercel, SiHeroku, SiTypescript, SiNextdotjs} from "react-icons/si";
 
 
 function About() {
@@ -21,7 +21,7 @@ function About() {
                         development. 
                     </p>
                     <p>
-                        After graduating, I ventured into the field of engineering, working as a flow assurance
+                        After graduating, I ventured into the field of engineering, working as an
                         engineer at Evoleap in Houston, TX. It was during this role that my interest and passion 
                         for software development truly flourished. I was given coding tasks in addition to my 
                         engineering responsibilities to automate team workflows, igniting my passion for 
@@ -51,8 +51,10 @@ function About() {
             <div className='icon-grid'>
                 <DiPython className='icon'/>
                 <DiJavascript1 className='icon'/>
+                <SiTypescript className='icon'/>
                 <DiNodejs className='icon'/>
                 <DiReact className='icon'/>
+                <SiNextdotjs className='icon'/>
                 <DiPostgresql className='icon'/>
                 <DiHtml5 className='icon'/>
                 <DiCss3 className='icon'/>

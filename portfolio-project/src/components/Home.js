@@ -15,7 +15,7 @@ function Home() {
                 <div className='text-content'>
                     <h2>A brief introduction...</h2>
                     <p>
-                        During my time as a Flow Assurance Consultant in the Oil and Gas industry, 
+                        During my time as an engineer in the Oil and Gas industry, 
                         I was drawn to the world of programming. It became a powerful tool in my professional arsenal, 
                         allowing me to optimize and innovate within my field.
                     </p>
