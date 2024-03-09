@@ -23,7 +23,7 @@ function About() {
                     <p>
                         After graduating, I ventured into the field of engineering, working as an
                         engineer at Evoleap in Houston, TX. It was during this role that my interest and passion 
-                        for software development truly flourished. I was given coding tasks in addition to my 
+                        for software development truly flourished. I was given software development tasks in addition to my 
                         engineering responsibilities to automate team workflows, igniting my passion for 
                         software development.
                     </p>
