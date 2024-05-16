@@ -24,13 +24,8 @@ function About() {
                         After graduating, I ventured into the field of engineering, working as an
                         engineer at Evoleap in Houston, TX. It was during this role that my interest and passion 
                         for software development truly flourished. I was given software development tasks in addition to my 
-                        engineering responsibilities to automate team workflows, igniting my passion for 
-                        software development.
-                    </p>
-                    <p>
-                        My enthusiasm led me to attend a Full-Stack development bootcamp, Flatiron School.
-                        in New York City. Since then, I've returned to Houston, TX, 
-                        where I have been diligently enhancing my capabilities as a software engineer.
+                        engineering responsibilities to automate team workflows which allowed me to eventually transition
+                        into a Software Engineering role.
                     </p>
                     <p>
                         Beyond the realm of work and software development, I enjoy spending my free time 
